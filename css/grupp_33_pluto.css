@@ -1,0 +1,38 @@
+
+.content,h1{
+    max-width: 100%;
+    height: auto;        
+    border: 5px solid black;
+    background-color: black;
+}
+
+h1{
+    color:#4996c5 ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p,TEXT2{
+    color:white ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p,TEXT3{
+    color:white ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header.div {
+    width: 100%;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  img{
+    max-width: 50%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+    object-position: right 50%;
+}
