@@ -174,16 +174,25 @@ h2{
 h3{
     font-size: 16px;
     font-family: sans-serif;
-    font-weight: bolder;
+    font-weight: bold;
     color:#4996c5;
     text-align: left;
 }
 h4{
     font-size: 16px;
     font-family: sans-serif;
+    font-weight: bold;
+    color:#4996c5;
+    text-align: left;
+    padding:8px;
+}
+h5{
+    font-size: 16px;
+    font-family: sans-serif;
     font-weight: lighter;
     color:#4996c5;
     text-align: left;
+    padding: 5px;
 }
 .font1{
     font-size: 12px;
@@ -200,13 +209,13 @@ a{
     text-decoration: none;
 }
 a.visited{
-    color: blue;
+    color: #4996c5;
 }
 a:active{
-    color: black;
+    color: #812c21;
 }
 a:hover {
-    color: red;
+    color: #812c21;
   }
 .a2{
     font-size: 16px;
@@ -216,11 +225,11 @@ a:hover {
     text-decoration: none;
 }
 .a2.visited{
-    color: blue;
+    color: #4996c5;
 }
 .a2:active{
-    color: black;
+    color: #812c21;
 }
 .a2:hover {
-    color: red;
+    color: #812c21;
   }

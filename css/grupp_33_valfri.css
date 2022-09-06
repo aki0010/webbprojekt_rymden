@@ -88,7 +88,7 @@ body{
     display: grid;
     background-color: black;
     color: white;
-    
+    margin: 100px;
 }
 .footer-center{
     background-color: black;
